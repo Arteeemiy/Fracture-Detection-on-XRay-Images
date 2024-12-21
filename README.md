@@ -55,7 +55,7 @@
 
 ### График потерь
 
-![График потерь](visualize_metrics/loss_plot.pn)
+![График потерь](visualize_metrics/loss_plot.png)
 
 ### График точности
 
