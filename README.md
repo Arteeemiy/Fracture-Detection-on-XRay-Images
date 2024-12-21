@@ -58,11 +58,11 @@
 
 ### График потерь
 
-![График потерь](images/loss_plot.png)
+![График потерь](visualize_metrics/loss_plot.png)
 
 ### График точности
 
-![График точности](images/accuracy_plot.png)
+![График точности](visualize_metrics/accuracy_plot.png)
 
 ## Использование
 
