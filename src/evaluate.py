@@ -1,5 +1,3 @@
-﻿# Visualization and evaluation of results.
-
 import matplotlib.pyplot as plt
 
 def plot_loss(train_losses, val_losses):
