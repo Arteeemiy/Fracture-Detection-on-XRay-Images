@@ -65,7 +65,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   git clone https://github.com/Arteeemiy/Fracture-Detection-on-XRay-Images.git
    cd your-repository
 2. Установите зависимости:
    ```bash
