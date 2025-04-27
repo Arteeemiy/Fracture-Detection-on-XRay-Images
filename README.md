@@ -1,5 +1,5 @@
-# Fracture Detection in Medical Imaging
-## Project Structure
+# Fracture Detection in Medical Imaging 🩻🤖
+## Project Structure 📂
 
 - **```src/```**: Main project code.
   - **```train.py```**: Model training logic.
@@ -48,20 +48,20 @@ This project trains a ResNet50 model on a dataset of 36,000 medical images label
 3. **Validation:** Performance evaluation on a held-out validation set.
 4. **Testing:** Final evaluation on unseen data to assess real-world performance.
 
-## Business Value
+## Business Value 💼
 
 This fracture detection system delivers tangible benefits for healthcare providers and patients:
 
-1. **Enhanced Diagnostic Accuracy** 
+1. **Enhanced Diagnostic Accuracy** 🔍  
    - **20% Improvement** in detecting subtle fractures (e.g., hairline cracks) compared to manual analysis.
    - **15% Reduction** in false negatives, minimizing missed diagnoses.
-2. **Operational Efficiency**
+2. **Operational Efficiency** ⏱️
    - **30% Faster** image processing: Radiologists review pre-analyzed cases with AI-highlighted regions.
    - **Scalability:** Processes 500+ X-ray images/hour, reducing backlog in high-volume clinics.
-3. **Cost Optimization**
+3. **Cost Optimization** 📈
    - Significant reduction in operational costs by minimizing repeat scans and manual labor.
    - **Early Intervention:** Detects fractures at initial stages, lowering long-term treatment costs by 25%.
-4. **Patient Outcomes**
+4. **Patient Outcomes** 💙
    - **40% Shorter Wait Times:** Automated prioritization of urgent cases (e.g., compound fractures).
    - **Transparency:** Patients receive AI-assisted reports with visualized fracture locations.
 
@@ -76,7 +76,7 @@ This fracture detection system delivers tangible benefits for healthcare provide
   
   ![Loss Curve](visualize_metrics/accuracy_plot.png)
 
-## Usage
+## Usage 🛠️
 
 1. Clone the repository:
    ```bash
